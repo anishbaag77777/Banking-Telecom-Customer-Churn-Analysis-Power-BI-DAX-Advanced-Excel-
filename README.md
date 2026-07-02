@@ -55,3 +55,8 @@ Monitor churn trends over time.
 Update predictive models using new customer data.
 
 Track the effectiveness of retention strategies and business performance.
+
+# Dashboard Preview
+
+![Dashboard](https://github.com/anishbaag77777/Retail-Sales-Performance-Analysis-Advanced-Excel-SQL-Power-Query-/blob/0216d66e0d0a7716f738a71de4d98a3178b18064/Dashboard.png)
+
