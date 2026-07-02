@@ -58,5 +58,18 @@ Track the effectiveness of retention strategies and business performance.
 
 # Dashboard Preview
 
-![Dashboard](https://github.com/anishbaag77777/Retail-Sales-Performance-Analysis-Advanced-Excel-SQL-Power-Query-/blob/0216d66e0d0a7716f738a71de4d98a3178b18064/Dashboard.png)
+![Dashboard](https://github.com/anishbaag77777/Banking-Telecom-Customer-Churn-Analysis-Power-BI-DAX-Advanced-Excel-/blob/main/Customer_Churn_Analysis_Dashboard.png)
 
+# Key Business Insights
+
+The majority of customers are retained, but over 2,000 customers have churned.
+
+Active members are generally more loyal than inactive members.
+
+Customers with Fair and Poor credit scores have higher churn rates.
+
+Male customers show a slightly higher churn rate than female customers.
+
+Monthly trend analysis helps identify periods with increased customer exits.
+
+Regional analysis enables location-specific retention planning.
