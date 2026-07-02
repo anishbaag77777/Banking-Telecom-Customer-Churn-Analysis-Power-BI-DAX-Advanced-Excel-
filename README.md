@@ -6,6 +6,50 @@ Customer churn means customers stop using a company's services. Losing customers
 
 This project analyzes customer data from the Banking and Telecom industries to identify why customers leave and to build machine learning models that predict which customers are likely to churn.
 
+## Tools Used:
+
+Microsoft Excel
+
+Data Cleaning
+
+Data Validation
+
+Sorting & Filtering
+
+Basic Analysis
+
+Power BI
+
+Power Query
+
+DAX Measures
+
+KPI Cards
+
+Interactive Dashboards
+
+Data Visualization
+
+## Data Preparation
+
+The dataset was imported into Microsoft Excel for initial exploration and validation.
+
+The following tasks were performed:
+
+Data validation
+
+Data cleaning
+
+Checking for missing values
+
+Removing duplicate records
+
+Data formatting
+
+Sorting and filtering
+
+Initial summary analysis
+
 # Project Objectives
 
 ## 1. Identify Key Churn Drivers
@@ -55,26 +99,6 @@ Monitor churn trends over time.
 Update predictive models using new customer data.
 
 Track the effectiveness of retention strategies and business performance.
-
-## Data Preparation
-
-The dataset was imported into Microsoft Excel for initial exploration and validation.
-
-The following tasks were performed:
-
-Data validation
-
-Data cleaning
-
-Checking for missing values
-
-Removing duplicate records
-
-Data formatting
-
-Sorting and filtering
-
-Initial summary analysis
 
 # Dashboard Preview
 
