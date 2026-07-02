@@ -1,4 +1,4 @@
-# Banking-Telecom-Customer-Churn-Analysis-Power-BI-DAX-Advanced-Excel-
+# Banking Telecom Customer Churn Analysis using Power-BI & Advanced Excel
 
 ##  Project Overview
 
@@ -55,6 +55,26 @@ Monitor churn trends over time.
 Update predictive models using new customer data.
 
 Track the effectiveness of retention strategies and business performance.
+
+## Data Preparation
+
+The dataset was imported into Microsoft Excel for initial exploration and validation.
+
+The following tasks were performed:
+
+Data validation
+
+Data cleaning
+
+Checking for missing values
+
+Removing duplicate records
+
+Data formatting
+
+Sorting and filtering
+
+Initial summary analysis
 
 # Dashboard Preview
 
