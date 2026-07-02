@@ -1,7 +1,10 @@
 # Banking-Telecom-Customer-Churn-Analysis-Power-BI-DAX-Advanced-Excel-
-Interactive Power BI dashboard for customer churn analysis in Banking &amp; Telecom. Analyzed customer demographics, account details, and activity to identify churn patterns. Built data models, created DAX measures, and developed KPI dashboards with slicers and drill-through reports to support data-driven retention strategies.
 
-# Problem Statement: 
+##  Project Overview
+
+Customer churn means customers stop using a company's services. Losing customers affects business growth and revenue.
+
+This project analyzes customer data from the Banking and Telecom industries to identify why customers leave and to build machine learning models that predict which customers are likely to churn.
 
 Developing Predictive Models to Identify At-Risk Customers and Reduce Churn Rate
 
